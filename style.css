@@ -1,3 +1,12 @@
 body{
-    
+    font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;}
+
+h1{
+    font-size: 50px;
+}
+
+.orange-color{
+color: orange;
+
 }
