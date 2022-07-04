@@ -69,4 +69,23 @@ h1 {
 
     box-shadow: 10px 10px 40px gray;
     border-radius: 10px;
+
+}
+
+#full-stack-dev {
+    border-left: 7px solid tomato;
+}
+
+#baby-web-dev {
+    border-left: 7px solid blue;
+}
+
+footer {
+
+    text-align: center;
+}
+
+h2 {
+
+    color: orange;
 }
